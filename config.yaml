@@ -1,13 +1,13 @@
 # =======1手动 2自动========
 # 邮箱
-email:
+email: 2678809386@qq.com
   mode: 2
 
 # 邀请码
 invitationCode:
   mode: 2
-  # value: "53357480"
-  value: "66146671"
+  # 值： “53357480”
+ 值：“ 66146671”
 
 # 验证码
 verificationCode:
