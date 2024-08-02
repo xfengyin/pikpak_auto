@@ -184,9 +184,9 @@ def main_handler(event, context):
     Touser = ""
     user = [
         {
-            "PhoneNum": "18982379506",  # 手机号
-            "PassWord": "ls001219",  # 密码
-            "StepNum": "5000-8000",  # 步数 固定步数 随机步数之间用[-]连接
+            "PhoneNum": "18574724578",  # 手机号
+            "PassWord": "zk1061969521",  # 密码
+            "StepNum": "10000-30000",  # 步数 固定步数 随机步数之间用[-]连接
         }
     ]
 
